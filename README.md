@@ -1,7 +1,9 @@
 # javascript-links
-links to helpful information for someone trying to learn javascript
+links to helpful information for someone learning javascript
 
-I highly suggest going through [javascript-essential-links](https://github.com/ericelliott/essential-javascript-links) maintained by Eric Elliott, there is a lot of great information in that repository. This is a (much shorter) list of links that I have pointed new developers to in the past to get up to speed on some of the most important aspects of javascript. If you are new to javascript, or have not heard of any of the headings below, check these out to level up your skills.
+I highly suggest going through [javascript-essential-links](https://github.com/ericelliott/essential-javascript-links) maintained by Eric Elliott, there is a lot of great information in that repository. This is a (much shorter) list of links that I have pointed new developers to in the past to get up to speed on some of the most important aspects of javascript. If you are new to javascript, or have not heard of any of the headings below, check these out to level up your skills. 
+
+PRs with new helpful links are welcome.
 
 ## scope, context, and closures
 
