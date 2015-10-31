@@ -3,8 +3,6 @@ links to helpful information for someone learning javascript
 
 I highly suggest going through [javascript-essential-links](https://github.com/ericelliott/essential-javascript-links) maintained by Eric Elliott, there is a lot of great information in that repository. This is a (much shorter) list of links that I have pointed new developers to in the past to get up to speed on some of the most important aspects of javascript. If you are new to javascript, or have not heard of any of the headings below, check these out to level up your skills. 
 
-PRs with new helpful links are welcome.
-
 ## scope, context, and closures
 
 - [Everything you wanted to know about JavaScript scope - Todd Motto](http://toddmotto.com/everything-you-wanted-to-know-about-javascript-scope)
@@ -20,4 +18,3 @@ PRs with new helpful links are welcome.
 
 - [The Two Pillars of JavaScript - Pt 2: Functional Programming - Eric Elliott](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4#.96up7azcw)
 - [Interactive functional programming tutorial - Jafar Husain](http://reactivex.io/learnrx/)
-
